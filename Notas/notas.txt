@@ -1,0 +1,35 @@
+Cruso práctico de HTML y CSS
+Proyecto: Clon de Google.
+Css es el lenguaje que nos ayuda a colocar estilos.
+En VSC al escribir: ¡ + tabulador. Se coloca toda la estructura de HTML5.
+El head contiene la estructura que no es visible en el proyecto, pero es necesaria para que el navegador pueda entender.
+El body contiene todo el contenido visual, donde el usuario puede interactuar.
+<link> Sirve para referencias.
+Chrome Dev Tools: Es una herramienta para mejorar el proceso de desarrollo, nos permite hacer ciertas mejoras y debuggear.
+<header> Es una etiqueta semántica, nos dice donde estamos en nuestra sección de código.
+<nav> Es un contenedor.
+<a> Etiqueta ancla, se compone de un href=”” que es la referencia.
+Live Server: Es una herramienta de VSC que nos permite ver nuestros cambios en tiempo real.
+El display es la forma en que las etiquetas contenedoras se comportan entre ellas.
+Flex: Soluciona el posicionamiento de elementos.
+Cuando se usa un * en css, se esta indicando que los estilos colocados ahí afectan a todos los elementos.
+El header va en todo el alto del navegador.
+justify-content es decirle a mi contenido que se mueva a los dos extremos o lo colocas en el centro.
+Una clase es un identificador para una etiqueta html que permite por medio de css darle un estilo único. Estos son genéricos y se pueden repetir en diferentes elementos.
+Los id son únicos estos no se pueden repetir.
+List-style:none; se puede quitar el estilo que tiene una lista (li).
+Text-decoration: none;
+Permite quitar toda la decoración de alguna etiqueta de texto como un subrayado.
+Cuando la imagen es muy pequeña se suele repetir en todo el espacio, para evitar que esto suceda simplemente se le coloca: background-repead: no-repead;
+Border-radius se quitan los bordes.
+Todo el contenido principal se tiene que colocar dentro de una etiqueta main.
+Una vez que ponemos una dimensión de ancho a una etiqueta contenedora, pero tenemos espacio y queremos posicionarlo en el espacio que falta, se le coloca auto y divide el espacio entre dos.
+Con border:none; quitas los bordes, incluso en un input.
+Outline: none; se quita el borde azul que se muestra cuando seleccionas un input.
+Box-shadow genera sombras.
+Cursor: pointer; genera la manita del cursor.
+
+Position: absolute;
+Bottom: 0;
+Con estos dos elementos se puede hacer que el footer se mantenga hasta la parte de abajo.
+Grid-template-columns: 1fr 1fr; Con esta propiedad puedes dividir en fracciones, se ve en el inspector de forma punteada.
